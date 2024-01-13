@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **moh.hazem321@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jlu7ZS3zaM_olW2bkrM4sLJsEWrKGa3g/view?usp=sharing](https://drive.google.com/file/d/1Jlu7ZS3zaM_olW2bkrM4sLJsEWrKGa3g/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1Jlu7ZS3zaM_olW2bkrM4sLJsEWrKGa3g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
