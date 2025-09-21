@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-hazem-mahrous&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-hazem-mahrous" /> </p>
 
-- 🌱 I’m currently learning **Embedded Software**
+- 🌱 I’m currently learning **Back End**
 
-- 💬 Ask me about **C, Embedded C**
+- 💬 Ask me about **Java Spring Boot**
 
 - 📫 How to reach me **moh.hazem321@gmail.com**
 
